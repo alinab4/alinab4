@@ -3,7 +3,7 @@
 ## 🚀 About Me  
 - 🎓 Bridging Business & IT
 - 💡 Data Analyst, DS & AI/ML Enthusiast 
-- 📊 Passionate about solving business problems and building intelligent systems  
+- 📊 Turning raw data into insights and solutions that drive impact
 - 🌱 Currently exploring SQL, Python, ML and Business Intelligence tools  
 
 ## 🛠 Tech Stack  
