@@ -4,7 +4,7 @@
 - 🎓 Bridging Business & IT
 - 💡 Data Analyst, DS & AI/ML Enthusiast 
 - 📊 Turning raw data into insights and solutions that drive impact
-- 🌱 Currently exploring SQL, Python, ML and Business Intelligence tools  
+- 🌱 Currently exploring Python, ML and Business Intelligence tools  
 
 ## 🛠 Tech Stack  
 
